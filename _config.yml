@@ -2,11 +2,10 @@ future: true
 permalink: /:title/
 url: http://Dxiaocai666.github.io
 name: 菜园子
-author: Dxiaocai
-qq: 1582872960
+author: 邓小菜
+qq: 
 email: dengyt5@mail2.sysu.edu.cn
-
-duoshuo: yourname
+duoshuo: 邓小菜
 beian: 
 cnzz: 
 weibo: 
@@ -15,3 +14,4 @@ about: "这里是 邓小菜 的个人博客，创建于 2018 年。"
 
 safe: true
 paginate: 20
+about: "邓小菜（Dxiaocai666)"
