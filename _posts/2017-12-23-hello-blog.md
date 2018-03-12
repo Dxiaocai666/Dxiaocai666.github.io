@@ -2,8 +2,8 @@
 layout: post
 title: 系统分析与设计Homework1
 date: 2018-03-11 20:00:10+00:00
-categories: 日志
-tags: 博客
+categories: Homework
+tags: 系统分析与设计
 ---
 
 # Homework1
