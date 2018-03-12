@@ -2,7 +2,7 @@
 layout: post
 title: Github Learning
 date: 2018-03-12 21:00:10+00:00
-categories: Tool Learning
+categories: Tool-Learning
 tags: Github
 ---
 
