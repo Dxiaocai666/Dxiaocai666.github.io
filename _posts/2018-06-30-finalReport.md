@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 系统分析与设计Homework10
+title: 个人总结
 date: 2018-06-30 20:00:10+00:00
-categories: Homework
+categories: software engineering
 tags: 系统分析与设计
 ---
 
